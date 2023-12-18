@@ -4,7 +4,7 @@ Esse é o famoso jogo da cobrinha, onde o jogador controla uma cobra que deve se
 
 ## Status do Projeto
 
-Versão Estável - Pronto para uso em produção. outros status
+Versão Estável - Pronto para uso.
 
 ## Link da Aplicação
 
