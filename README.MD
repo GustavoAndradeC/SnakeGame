@@ -12,7 +12,7 @@ Versão Estável - Pronto para uso.
 
 ## Contato
 
-- LinkedIn: [Gustavo Andrade](# Plugin GTags
+- LinkedIn: [Gustavo Andrade](https://www.linkedin.com/in/gustavoandradec/)
 
 O Plugin GTags para Minecraft é uma ferramenta que permite aos jogadores exibirem tags (Cargos) acima de suas cabeças e chat no jogo. Com este plugin, os jogadores podem escolher entre uma ampla variedade de tags predefinidas.
 
